@@ -7,7 +7,7 @@ discount = None
 print("Product name:", product_name, type(product_name))
 print("Price:", price, type(price))
 print("Quantity:", quantity, type(quantity))
-print("Stack:", in_stock, type(in_stock))
+print("Stock:", in_stock, type(in_stock))
 print("Discount:", discount, type(discount))
 
 total = price * quantity
