@@ -1,0 +1,6 @@
+print("Start")
+text = input("Enter a whole number: ")
+number = int(text)
+print(f"Double: {number * 2}")
+print(f"100 / number = {100 / number}")
+print("End")
