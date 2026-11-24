@@ -63,7 +63,7 @@ python-course/
 │   └── todo_api/
 ├── part_1_foundation/
 │   └── module_01/
-│       └── 01_first_program/      # номер урока внутри модуля
+│       └── 02_first_program/      # сквозной номер урока (1–56)
 │           ├── examples/main.py   # примеры по ходу урока
 │           └── tasks/main.py      # задачи (или tasks/task_01/main.py и т. д.)
 ├── part_2_backend/
